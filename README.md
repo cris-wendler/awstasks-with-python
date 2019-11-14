@@ -1,2 +1,2 @@
-# awstasks-with-python
-Automating some AWS tasks with Python
+# Automating some AWS tasks with Python
+*Repository for some AWS tasks with Python*
